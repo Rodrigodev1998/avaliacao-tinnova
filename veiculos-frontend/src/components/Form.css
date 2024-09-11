@@ -1,0 +1,9 @@
+.area-input{
+    display: flex;
+    gap: 6px;
+}
+
+.btn-vendido{
+    margin-top: 6px;
+    margin-bottom: 8px;
+}

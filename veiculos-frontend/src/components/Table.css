@@ -1,0 +1,41 @@
+.btn-edit{
+    margin-right: 8px;
+    padding:4px 8px;
+    border: none;
+    border-radius: 6px;
+    background-color: #460bb6;
+}
+
+.btn-edit:hover{
+    background-color: #8356d8;
+    transition: all 0.3s ease-in-out;
+}
+
+.btn-trash{
+    margin-right: 8px;
+    padding:4px 8px;
+    border: none;
+    border-radius: 6px;
+    background-color: #a83e3e;
+}
+
+.btn-trash:hover{
+    background-color: #d86868;
+    transition: all 0.3s ease-in-out;
+}
+
+.area-filter{
+    display: flex;
+}
+.area-filter-bnt{
+    display: flex;
+    gap: 6px;
+    margin-bottom: 4px;
+}
+.edit-radio{
+    margin-top: 10px
+}
+.btn-vendido{
+    margin-top: 6px;
+    margin-bottom: 8px;
+}
