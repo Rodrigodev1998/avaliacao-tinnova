@@ -25,7 +25,7 @@ Este documento descreve os testes  desenvolvidos para a empresa TINNOVA. Os test
 
 Implementação do cálculo dos votos em relação ao total de eleitores utilizando POO.
 
-## Como executar:
+#### Como executar:
 
 Execute a classe `Main.java`.
 
