@@ -21,7 +21,7 @@ Este documento descreve os testes  desenvolvidos para a empresa TINNOVA. Os test
 
 # Informação sobre cada avaliação
 
-## Votos em relação ao total de eleitores
+## 1- Votos em relação ao total de eleitores
 
 Implementação do cálculo dos votos em relação ao total de eleitores utilizando POO.
 
@@ -29,7 +29,7 @@ Implementação do cálculo dos votos em relação ao total de eleitores utiliza
 
 Execute a classe `Main.java`.
 
-## Algoritmo de ordenação Bubble Sort
+## 2- Algoritmo de ordenação Bubble Sort
 
 Implementação do Algoritmo Bubble Sort para ordenação do vetor **{5, 3, 2, 4, 7, 1, 0, 6}**
 
@@ -37,7 +37,7 @@ Implementação do Algoritmo Bubble Sort para ordenação do vetor **{5, 3, 2, 4
 
 Execute a classe `Main.java`.
 
-## Fatorial
+## 3- Fatorial
 
 Implementação de um programa que recebe um determinado número inteiro e calcula o seu fatorial. A solução foi feita utilizando recursão.
 
@@ -45,7 +45,7 @@ Implementação de um programa que recebe um determinado número inteiro e calcu
 
 Execute a classe `Main.java`.
 
-## Soma dos multiplos de 3 ou 5
+## 4- Soma dos multiplos de 3 ou 5
 
 Implementação do programa que recebe um número inteiro e calcula a soma dos números que seja múltiplos de 3 ou 5 até ele.
 
@@ -53,7 +53,7 @@ Implementação do programa que recebe um número inteiro e calcula a soma dos n
 
 Apenas execute a classe `Main.java`.
 
-### CRUD - cadastro de veículos
+### 5- CRUD - Cadastro de Veículos
 
 Setup inicial de projeto com o Spring Boot Initializer
 Criação de modelo de dados para o mapeamento de entidades em bancos de dados
